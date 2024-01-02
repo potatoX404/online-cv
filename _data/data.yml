@@ -9,26 +9,26 @@ sidebar:
 
     # Profile information
     name: 罗琦琛
-    tagline: Full Stack Developer
+    tagline: 自由创客
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: hello@webjeda.com
-    phone: 012 345 6789
-    timezone: America/Cancun Timezone
-    citizenship:
-    website: blog.webjeda.com #do not add http://
-    linkedin: alandoe
-    xing: alandoe
-    github: sharu725
-    telegram: # add your nickname without '@' sign
-    gitlab:
-    bitbucket:
-    twitter: '@webjeda'
-    stack-overflow: # Number/Username, e.g. 123456/alandoe
-    codewars:
-    goodreads: # Number-Username, e.g. 123456-alandoe
-    pdf: http://www.africau.edu/images/default/sample.pdf
+    email: Potatomanx233@gmail.com
+    phone: +86 17612883126
+    # timezone: America/Cancun Timezone
+    # citizenship:
+    #website: blog.webjeda.com #do not add http://
+    #linkedin: alandoe
+    #xing: alandoe
+    #github: sharu725
+    #telegram: # add your nickname without '@' sign
+    #gitlab:
+    #bitbucket:
+    #witter: '@webjeda'
+    #stack-overflow: # Number/Username, e.g. 123456/alandoe
+    #codewars:
+    #goodreads: # Number-Username, e.g. 123456-alandoe
+    #pdf: http://www.africau.edu/images/default/sample.pdf
 
     languages:
       title: Languages
